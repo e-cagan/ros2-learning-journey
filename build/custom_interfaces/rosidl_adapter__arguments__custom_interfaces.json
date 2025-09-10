@@ -1,0 +1,8 @@
+{
+  "package_name": "custom_interfaces",
+  "non_idl_tuples": [
+    "/home/cagan/ros2_ws/src/custom_interfaces:msg/Coordinates.msg",
+    "/home/cagan/ros2_ws/src/custom_interfaces:srv/MultiplyThree.srv",
+    "/home/cagan/ros2_ws/src/custom_interfaces:action/MoveRobot.action"
+  ]
+}

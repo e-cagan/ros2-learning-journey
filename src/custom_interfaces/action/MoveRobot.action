@@ -1,0 +1,10 @@
+# Goal
+float64 target_distance
+float64 speed
+---
+# Result
+float64 total_time
+---
+# Feedback
+float64 current_distance
+float64 progress

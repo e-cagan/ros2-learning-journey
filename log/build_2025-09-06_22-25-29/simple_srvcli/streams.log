@@ -1,0 +1,26 @@
+[0.372s] Invoking command in '/home/cagan/ros2_ws/src/simple_srvcli': PYTHONPATH=/home/cagan/ros2_ws/build/simple_srvcli/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/cagan/ros2_ws/install/simple_srvcli/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/simple_srvcli build --build-base /home/cagan/ros2_ws/build/simple_srvcli/build install --record /home/cagan/ros2_ws/build/simple_srvcli/install.log --single-version-externally-managed install_data
+[0.520s] running egg_info
+[0.520s] writing ../../build/simple_srvcli/simple_srvcli.egg-info/PKG-INFO
+[0.520s] writing dependency_links to ../../build/simple_srvcli/simple_srvcli.egg-info/dependency_links.txt
+[0.520s] writing entry points to ../../build/simple_srvcli/simple_srvcli.egg-info/entry_points.txt
+[0.521s] writing requirements to ../../build/simple_srvcli/simple_srvcli.egg-info/requires.txt
+[0.521s] writing top-level names to ../../build/simple_srvcli/simple_srvcli.egg-info/top_level.txt
+[0.522s] reading manifest file '../../build/simple_srvcli/simple_srvcli.egg-info/SOURCES.txt'
+[0.523s] adding license file 'LICENSE'
+[0.523s] writing manifest file '../../build/simple_srvcli/simple_srvcli.egg-info/SOURCES.txt'
+[0.523s] running build
+[0.523s] running build_py
+[0.523s] copying simple_srvcli/service_node.py -> /home/cagan/ros2_ws/build/simple_srvcli/build/lib/simple_srvcli
+[0.524s] running install
+[0.524s] running install_lib
+[0.525s] copying /home/cagan/ros2_ws/build/simple_srvcli/build/lib/simple_srvcli/service_node.py -> /home/cagan/ros2_ws/install/simple_srvcli/lib/python3.10/site-packages/simple_srvcli
+[0.525s] byte-compiling /home/cagan/ros2_ws/install/simple_srvcli/lib/python3.10/site-packages/simple_srvcli/service_node.py to service_node.cpython-310.pyc
+[0.526s] running install_data
+[0.526s] running install_egg_info
+[0.527s] removing '/home/cagan/ros2_ws/install/simple_srvcli/lib/python3.10/site-packages/simple_srvcli-0.0.0-py3.10.egg-info' (and everything under it)
+[0.527s] Copying ../../build/simple_srvcli/simple_srvcli.egg-info to /home/cagan/ros2_ws/install/simple_srvcli/lib/python3.10/site-packages/simple_srvcli-0.0.0-py3.10.egg-info
+[0.528s] running install_scripts
+[0.541s] Installing client script to /home/cagan/ros2_ws/install/simple_srvcli/lib/simple_srvcli
+[0.541s] Installing service script to /home/cagan/ros2_ws/install/simple_srvcli/lib/simple_srvcli
+[0.541s] writing list of installed files to '/home/cagan/ros2_ws/build/simple_srvcli/install.log'
+[0.556s] Invoked command in '/home/cagan/ros2_ws/src/simple_srvcli' returned '0': PYTHONPATH=/home/cagan/ros2_ws/build/simple_srvcli/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/cagan/ros2_ws/install/simple_srvcli/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/simple_srvcli build --build-base /home/cagan/ros2_ws/build/simple_srvcli/build install --record /home/cagan/ros2_ws/build/simple_srvcli/install.log --single-version-externally-managed install_data

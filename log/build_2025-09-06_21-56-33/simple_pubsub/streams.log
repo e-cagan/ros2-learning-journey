@@ -1,0 +1,23 @@
+[0.366s] Invoking command in '/home/cagan/tutorial_ws/src/simple_pubsub': PYTHONPATH=/home/cagan/tutorial_ws/build/simple_pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/cagan/tutorial_ws/install/simple_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/simple_pubsub build --build-base /home/cagan/tutorial_ws/build/simple_pubsub/build install --record /home/cagan/tutorial_ws/build/simple_pubsub/install.log --single-version-externally-managed install_data
+[0.513s] running egg_info
+[0.514s] writing ../../build/simple_pubsub/simple_pubsub.egg-info/PKG-INFO
+[0.514s] writing dependency_links to ../../build/simple_pubsub/simple_pubsub.egg-info/dependency_links.txt
+[0.514s] writing entry points to ../../build/simple_pubsub/simple_pubsub.egg-info/entry_points.txt
+[0.514s] writing requirements to ../../build/simple_pubsub/simple_pubsub.egg-info/requires.txt
+[0.514s] writing top-level names to ../../build/simple_pubsub/simple_pubsub.egg-info/top_level.txt
+[0.515s] reading manifest file '../../build/simple_pubsub/simple_pubsub.egg-info/SOURCES.txt'
+[0.515s] adding license file 'LICENSE'
+[0.516s] writing manifest file '../../build/simple_pubsub/simple_pubsub.egg-info/SOURCES.txt'
+[0.516s] running build
+[0.516s] running build_py
+[0.516s] running install
+[0.516s] running install_lib
+[0.517s] running install_data
+[0.517s] running install_egg_info
+[0.518s] removing '/home/cagan/tutorial_ws/install/simple_pubsub/lib/python3.10/site-packages/simple_pubsub-0.0.0-py3.10.egg-info' (and everything under it)
+[0.519s] Copying ../../build/simple_pubsub/simple_pubsub.egg-info to /home/cagan/tutorial_ws/install/simple_pubsub/lib/python3.10/site-packages/simple_pubsub-0.0.0-py3.10.egg-info
+[0.519s] running install_scripts
+[0.532s] Installing listener script to /home/cagan/tutorial_ws/install/simple_pubsub/lib/simple_pubsub
+[0.532s] Installing talker script to /home/cagan/tutorial_ws/install/simple_pubsub/lib/simple_pubsub
+[0.532s] writing list of installed files to '/home/cagan/tutorial_ws/build/simple_pubsub/install.log'
+[0.547s] Invoked command in '/home/cagan/tutorial_ws/src/simple_pubsub' returned '0': PYTHONPATH=/home/cagan/tutorial_ws/build/simple_pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/cagan/tutorial_ws/install/simple_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/simple_pubsub build --build-base /home/cagan/tutorial_ws/build/simple_pubsub/build install --record /home/cagan/tutorial_ws/build/simple_pubsub/install.log --single-version-externally-managed install_data

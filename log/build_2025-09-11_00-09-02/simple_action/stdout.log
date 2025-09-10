@@ -1,0 +1,39 @@
+running egg_info
+creating ../../build/simple_action/simple_action.egg-info
+writing ../../build/simple_action/simple_action.egg-info/PKG-INFO
+writing dependency_links to ../../build/simple_action/simple_action.egg-info/dependency_links.txt
+writing entry points to ../../build/simple_action/simple_action.egg-info/entry_points.txt
+writing requirements to ../../build/simple_action/simple_action.egg-info/requires.txt
+writing top-level names to ../../build/simple_action/simple_action.egg-info/top_level.txt
+writing manifest file '../../build/simple_action/simple_action.egg-info/SOURCES.txt'
+reading manifest file '../../build/simple_action/simple_action.egg-info/SOURCES.txt'
+writing manifest file '../../build/simple_action/simple_action.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/cagan/ros2_ws/build/simple_action/build
+creating /home/cagan/ros2_ws/build/simple_action/build/lib
+creating /home/cagan/ros2_ws/build/simple_action/build/lib/simple_action
+copying simple_action/move_robot_server.py -> /home/cagan/ros2_ws/build/simple_action/build/lib/simple_action
+copying simple_action/move_robot_client.py -> /home/cagan/ros2_ws/build/simple_action/build/lib/simple_action
+copying simple_action/__init__.py -> /home/cagan/ros2_ws/build/simple_action/build/lib/simple_action
+running install
+running install_lib
+creating /home/cagan/ros2_ws/install/simple_action/lib/python3.10/site-packages/simple_action
+copying /home/cagan/ros2_ws/build/simple_action/build/lib/simple_action/move_robot_server.py -> /home/cagan/ros2_ws/install/simple_action/lib/python3.10/site-packages/simple_action
+copying /home/cagan/ros2_ws/build/simple_action/build/lib/simple_action/move_robot_client.py -> /home/cagan/ros2_ws/install/simple_action/lib/python3.10/site-packages/simple_action
+copying /home/cagan/ros2_ws/build/simple_action/build/lib/simple_action/__init__.py -> /home/cagan/ros2_ws/install/simple_action/lib/python3.10/site-packages/simple_action
+byte-compiling /home/cagan/ros2_ws/install/simple_action/lib/python3.10/site-packages/simple_action/move_robot_server.py to move_robot_server.cpython-310.pyc
+byte-compiling /home/cagan/ros2_ws/install/simple_action/lib/python3.10/site-packages/simple_action/move_robot_client.py to move_robot_client.cpython-310.pyc
+byte-compiling /home/cagan/ros2_ws/install/simple_action/lib/python3.10/site-packages/simple_action/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/cagan/ros2_ws/install/simple_action/share/ament_index
+creating /home/cagan/ros2_ws/install/simple_action/share/ament_index/resource_index
+creating /home/cagan/ros2_ws/install/simple_action/share/ament_index/resource_index/packages
+copying resource/simple_action -> /home/cagan/ros2_ws/install/simple_action/share/ament_index/resource_index/packages
+copying package.xml -> /home/cagan/ros2_ws/install/simple_action/share/simple_action
+running install_egg_info
+Copying ../../build/simple_action/simple_action.egg-info to /home/cagan/ros2_ws/install/simple_action/lib/python3.10/site-packages/simple_action-0.0.0-py3.10.egg-info
+running install_scripts
+Installing client script to /home/cagan/ros2_ws/install/simple_action/lib/simple_action
+Installing server script to /home/cagan/ros2_ws/install/simple_action/lib/simple_action
+writing list of installed files to '/home/cagan/ros2_ws/build/simple_action/install.log'

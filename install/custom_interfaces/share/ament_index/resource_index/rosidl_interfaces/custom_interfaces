@@ -1,0 +1,8 @@
+action/MoveRobot.action
+action/MoveRobot.idl
+msg/Coordinates.idl
+msg/Coordinates.msg
+srv/MultiplyThree.idl
+srv/MultiplyThree.srv
+srv/MultiplyThree_Request.msg
+srv/MultiplyThree_Response.msg

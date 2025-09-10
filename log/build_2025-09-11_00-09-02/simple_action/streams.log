@@ -1,0 +1,41 @@
+[0.388s] Invoking command in '/home/cagan/ros2_ws/src/simple_action': PYTHONPATH=/home/cagan/ros2_ws/build/simple_action/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/cagan/ros2_ws/install/simple_action/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/simple_action build --build-base /home/cagan/ros2_ws/build/simple_action/build install --record /home/cagan/ros2_ws/build/simple_action/install.log --single-version-externally-managed install_data
+[0.556s] running egg_info
+[0.556s] creating ../../build/simple_action/simple_action.egg-info
+[0.556s] writing ../../build/simple_action/simple_action.egg-info/PKG-INFO
+[0.557s] writing dependency_links to ../../build/simple_action/simple_action.egg-info/dependency_links.txt
+[0.557s] writing entry points to ../../build/simple_action/simple_action.egg-info/entry_points.txt
+[0.557s] writing requirements to ../../build/simple_action/simple_action.egg-info/requires.txt
+[0.557s] writing top-level names to ../../build/simple_action/simple_action.egg-info/top_level.txt
+[0.557s] writing manifest file '../../build/simple_action/simple_action.egg-info/SOURCES.txt'
+[0.558s] reading manifest file '../../build/simple_action/simple_action.egg-info/SOURCES.txt'
+[0.558s] writing manifest file '../../build/simple_action/simple_action.egg-info/SOURCES.txt'
+[0.558s] running build
+[0.559s] running build_py
+[0.559s] creating /home/cagan/ros2_ws/build/simple_action/build
+[0.559s] creating /home/cagan/ros2_ws/build/simple_action/build/lib
+[0.559s] creating /home/cagan/ros2_ws/build/simple_action/build/lib/simple_action
+[0.559s] copying simple_action/move_robot_server.py -> /home/cagan/ros2_ws/build/simple_action/build/lib/simple_action
+[0.559s] copying simple_action/move_robot_client.py -> /home/cagan/ros2_ws/build/simple_action/build/lib/simple_action
+[0.559s] copying simple_action/__init__.py -> /home/cagan/ros2_ws/build/simple_action/build/lib/simple_action
+[0.559s] running install
+[0.559s] running install_lib
+[0.560s] creating /home/cagan/ros2_ws/install/simple_action/lib/python3.10/site-packages/simple_action
+[0.560s] copying /home/cagan/ros2_ws/build/simple_action/build/lib/simple_action/move_robot_server.py -> /home/cagan/ros2_ws/install/simple_action/lib/python3.10/site-packages/simple_action
+[0.560s] copying /home/cagan/ros2_ws/build/simple_action/build/lib/simple_action/move_robot_client.py -> /home/cagan/ros2_ws/install/simple_action/lib/python3.10/site-packages/simple_action
+[0.560s] copying /home/cagan/ros2_ws/build/simple_action/build/lib/simple_action/__init__.py -> /home/cagan/ros2_ws/install/simple_action/lib/python3.10/site-packages/simple_action
+[0.560s] byte-compiling /home/cagan/ros2_ws/install/simple_action/lib/python3.10/site-packages/simple_action/move_robot_server.py to move_robot_server.cpython-310.pyc
+[0.561s] byte-compiling /home/cagan/ros2_ws/install/simple_action/lib/python3.10/site-packages/simple_action/move_robot_client.py to move_robot_client.cpython-310.pyc
+[0.561s] byte-compiling /home/cagan/ros2_ws/install/simple_action/lib/python3.10/site-packages/simple_action/__init__.py to __init__.cpython-310.pyc
+[0.561s] running install_data
+[0.561s] creating /home/cagan/ros2_ws/install/simple_action/share/ament_index
+[0.561s] creating /home/cagan/ros2_ws/install/simple_action/share/ament_index/resource_index
+[0.561s] creating /home/cagan/ros2_ws/install/simple_action/share/ament_index/resource_index/packages
+[0.561s] copying resource/simple_action -> /home/cagan/ros2_ws/install/simple_action/share/ament_index/resource_index/packages
+[0.561s] copying package.xml -> /home/cagan/ros2_ws/install/simple_action/share/simple_action
+[0.561s] running install_egg_info
+[0.562s] Copying ../../build/simple_action/simple_action.egg-info to /home/cagan/ros2_ws/install/simple_action/lib/python3.10/site-packages/simple_action-0.0.0-py3.10.egg-info
+[0.563s] running install_scripts
+[0.576s] Installing client script to /home/cagan/ros2_ws/install/simple_action/lib/simple_action
+[0.576s] Installing server script to /home/cagan/ros2_ws/install/simple_action/lib/simple_action
+[0.576s] writing list of installed files to '/home/cagan/ros2_ws/build/simple_action/install.log'
+[0.590s] Invoked command in '/home/cagan/ros2_ws/src/simple_action' returned '0': PYTHONPATH=/home/cagan/ros2_ws/build/simple_action/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/cagan/ros2_ws/install/simple_action/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/simple_action build --build-base /home/cagan/ros2_ws/build/simple_action/build install --record /home/cagan/ros2_ws/build/simple_action/install.log --single-version-externally-managed install_data

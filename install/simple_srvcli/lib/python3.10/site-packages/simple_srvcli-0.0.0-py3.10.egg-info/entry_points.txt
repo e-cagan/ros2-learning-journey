@@ -1,0 +1,4 @@
+[console_scripts]
+client = simple_srvcli.client_node:main
+service = simple_srvcli.service_node:main
+

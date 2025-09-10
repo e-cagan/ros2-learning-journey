@@ -1,0 +1,4 @@
+[console_scripts]
+listener = simple_pubsub.subscriber_node:main
+talker = simple_pubsub.publisher_node:main
+

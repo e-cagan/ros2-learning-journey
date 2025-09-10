@@ -1,0 +1,4 @@
+[console_scripts]
+client = simple_action.move_robot_client:main
+server = simple_action.move_robot_server:main
+

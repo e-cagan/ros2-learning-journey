@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../../build/simple_action/simple_action.egg-info/PKG-INFO
+../../build/simple_action/simple_action.egg-info/SOURCES.txt
+../../build/simple_action/simple_action.egg-info/dependency_links.txt
+../../build/simple_action/simple_action.egg-info/entry_points.txt
+../../build/simple_action/simple_action.egg-info/requires.txt
+../../build/simple_action/simple_action.egg-info/top_level.txt
+../../build/simple_action/simple_action.egg-info/zip-safe
+resource/simple_action
+simple_action/__init__.py
+simple_action/move_robot_client.py
+simple_action/move_robot_server.py
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

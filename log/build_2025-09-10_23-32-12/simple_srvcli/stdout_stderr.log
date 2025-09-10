@@ -1,0 +1,27 @@
+running egg_info
+writing ../../build/simple_srvcli/simple_srvcli.egg-info/PKG-INFO
+writing dependency_links to ../../build/simple_srvcli/simple_srvcli.egg-info/dependency_links.txt
+writing entry points to ../../build/simple_srvcli/simple_srvcli.egg-info/entry_points.txt
+writing requirements to ../../build/simple_srvcli/simple_srvcli.egg-info/requires.txt
+writing top-level names to ../../build/simple_srvcli/simple_srvcli.egg-info/top_level.txt
+reading manifest file '../../build/simple_srvcli/simple_srvcli.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/simple_srvcli/simple_srvcli.egg-info/SOURCES.txt'
+running build
+running build_py
+copying simple_srvcli/service_node.py -> /home/cagan/ros2_ws/build/simple_srvcli/build/lib/simple_srvcli
+copying simple_srvcli/client_node.py -> /home/cagan/ros2_ws/build/simple_srvcli/build/lib/simple_srvcli
+running install
+running install_lib
+copying /home/cagan/ros2_ws/build/simple_srvcli/build/lib/simple_srvcli/service_node.py -> /home/cagan/ros2_ws/install/simple_srvcli/lib/python3.10/site-packages/simple_srvcli
+copying /home/cagan/ros2_ws/build/simple_srvcli/build/lib/simple_srvcli/client_node.py -> /home/cagan/ros2_ws/install/simple_srvcli/lib/python3.10/site-packages/simple_srvcli
+byte-compiling /home/cagan/ros2_ws/install/simple_srvcli/lib/python3.10/site-packages/simple_srvcli/service_node.py to service_node.cpython-310.pyc
+byte-compiling /home/cagan/ros2_ws/install/simple_srvcli/lib/python3.10/site-packages/simple_srvcli/client_node.py to client_node.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/cagan/ros2_ws/install/simple_srvcli/lib/python3.10/site-packages/simple_srvcli-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/simple_srvcli/simple_srvcli.egg-info to /home/cagan/ros2_ws/install/simple_srvcli/lib/python3.10/site-packages/simple_srvcli-0.0.0-py3.10.egg-info
+running install_scripts
+Installing client script to /home/cagan/ros2_ws/install/simple_srvcli/lib/simple_srvcli
+Installing service script to /home/cagan/ros2_ws/install/simple_srvcli/lib/simple_srvcli
+writing list of installed files to '/home/cagan/ros2_ws/build/simple_srvcli/install.log'
