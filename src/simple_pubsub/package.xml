@@ -17,6 +17,7 @@
 
   <!-- Added this because to test custom msg -->
   <exec_depend>custom_interfaces</exec_depend>
+  <exec_depend>ros2launch</exec_depend>
 
   <export>
     <build_type>ament_python</build_type>

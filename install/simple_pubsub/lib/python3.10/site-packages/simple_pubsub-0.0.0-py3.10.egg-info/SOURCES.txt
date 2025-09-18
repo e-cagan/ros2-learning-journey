@@ -9,6 +9,7 @@ setup.py
 ../../build/simple_pubsub/simple_pubsub.egg-info/requires.txt
 ../../build/simple_pubsub/simple_pubsub.egg-info/top_level.txt
 ../../build/simple_pubsub/simple_pubsub.egg-info/zip-safe
+launch/pubsub.launch.py
 resource/simple_pubsub
 simple_pubsub/__init__.py
 simple_pubsub/publisher_node.py
